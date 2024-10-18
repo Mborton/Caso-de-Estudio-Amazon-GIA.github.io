@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caso de Contratación de Amazon con IA en 2014</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #232f3e;
+        }
+        h2 {
+            color: #131921;
+        }
+        .header-image {
+            width: 100%;
+            max-height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" alt="Logo de Amazon" class="header-image">
+        <h1>El Caso de Contratación de Amazon con IA en 2014</h1>
+        
+        <h2>Introducción</h2>
+        <p>En 2014, Amazon, el gigante del comercio electrónico, se embarcó en un ambicioso proyecto para revolucionar su proceso de contratación mediante el uso de inteligencia artificial. Este caso se volvió un hito en la historia de la IA aplicada a recursos humanos, revelando importantes lecciones sobre los desafíos éticos y prácticos que conlleva la implementación de tecnologías avanzadas en procesos críticos de selección de personal.</p>
+        
+        <h2>El Sistema de IA: Desarrollo y Objetivos</h2>
+        <p>Amazon invirtió considerables recursos en el desarrollo de un sofisticado algoritmo de aprendizaje automático. Este sistema estaba diseñado para analizar y evaluar currículums de manera automática, con el objetivo de identificar a los candidatos más prometedores de forma rápida y eficiente. La compañía esperaba que esta herramienta pudiera procesar grandes volúmenes de aplicaciones, ahorrando tiempo y recursos en el proceso de selección.</p>
+        
+        <h2>Funcionamiento del Sistema</h2>
+        <p>El algoritmo fue entrenado utilizando patrones de currículums enviados a la empresa durante un período de 10 años. Se esperaba que el sistema aprendiera a reconocer las características de los candidatos exitosos y aplicara ese conocimiento para evaluar nuevas aplicaciones. La IA asignaba puntuaciones a los candidatos, teóricamente permitiendo a los reclutadores centrarse en los perfiles más prometedores.</p>
+        
+        <h2>Problemas Descubiertos</h2>
+        <p>A medida que el sistema se implementaba, se descubrió un problema crítico: el algoritmo mostraba un sesgo significativo contra las candidatas mujeres. Este sesgo se manifestaba de varias formas:</p>
+        <ul>
+            <li>Penalización de currículums que incluían la palabra "mujeres", como en "club de ajedrez de mujeres".</li>
+            <li>Preferencia por lenguaje típicamente asociado con perfiles masculinos.</li>
+            <li>Subvaloración de graduadas de universidades exclusivamente femeninas.</li>
+        </ul>
+        <p>La raíz del problema estaba en los datos de entrenamiento. Al basarse en patrones históricos de contratación, el sistema había "aprendido" y perpetuado el desequilibrio de género existente en la industria tecnológica.</p>
+        
+        <h2>Intentos de Corrección y Abandono</h2>
+        <p>Amazon realizó varios intentos para corregir el sesgo del algoritmo. Los ingenieros trataron de ajustar el sistema para que fuera neutral respecto al género, pero pronto se dieron cuenta de que no había garantía de que la IA no desarrollaría otros métodos discriminatorios. Ante la imposibilidad de garantizar un proceso justo y equitativo, Amazon tomó la decisión de abandonar el proyecto en 2015.</p>
+        
+        <h2>Impacto en la Industria</h2>
+        <p>El caso de Amazon tuvo un impacto significativo en la industria tecnológica y de recursos humanos:</p>
+        <ul>
+            <li>Aumentó la conciencia sobre los riesgos de sesgo en sistemas de IA.</li>
+            <li>Impulsó debates sobre ética en tecnología y contratación.</li>
+            <li>Motivó a otras empresas a revisar sus propios sistemas de contratación basados en IA.</li>
+        </ul>
+        
+        <h2>Lecciones Aprendidas</h2>
+        <p>Este caso proporcionó valiosas lecciones para el futuro desarrollo de IA en recursos humanos:</p>
+        <ul>
+            <li>La crucial importancia de utilizar datos de entrenamiento diversos y representativos.</li>
+            <li>La necesidad de auditorías regulares y exhaustivas de los sistemas de IA para detectar y corregir sesgos.</li>
+            <li>El valor insustituible del juicio humano en procesos críticos como la contratación.</li>
+            <li>La importancia de la transparencia en los algoritmos de toma de decisiones.</li>
+            <li>La necesidad de equipos diversos en el desarrollo de sistemas de IA para anticipar posibles sesgos.</li>
+        </ul>
+        
+        <h2>Desarrollos Posteriores</h2>
+        <p>Desde el caso de Amazon, ha habido avances significativos en el campo de la IA ética y justa:</p>
+        <ul>
+            <li>Desarrollo de herramientas para detectar y mitigar sesgos en algoritmos.</li>
+            <li>Creación de marcos éticos para el desarrollo de IA en recursos humanos.</li>
+            <li>Mayor énfasis en la diversidad en equipos de desarrollo de IA.</li>
+        </ul>
+        
+        <h2>Conclusión</h2>
+        <p>El caso de contratación de Amazon con IA en 2014 sirve como un importante recordatorio de los desafíos éticos en la implementación de tecnologías avanzadas en procesos de recursos humanos. Destaca la necesidad de un enfoque cuidadoso, consciente y ético en el desarrollo y aplicación de estas tecnologías. A medida que la IA continúa evolucionando, casos como este nos recuerdan la importancia de mantener un equilibrio entre la innovación tecnológica y los valores humanos fundamentales de equidad y diversidad.</p>
+    </div>
+</body>
+</html>
